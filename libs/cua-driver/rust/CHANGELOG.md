@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.24.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.23.2...cua-driver-rs-v0.24.0) (2026-09-02)
+
+
+### Features
+
+* **cua-driver:** let get_window_state skip the a11y tree and return capture metadata ([#3516](https://github.com/trycua/cua/issues/3516)) ([808c014](https://github.com/trycua/cua/commit/808c0142dc7c8c84cde3a0d1fc5118194898a7a3))
+
+
+### Bug Fixes
+
+* **cua-driver:** accept host identity in embedded health check ([#2170](https://github.com/trycua/cua/issues/2170)) ([8a3d79a](https://github.com/trycua/cua/commit/8a3d79aa79443ee3b821903c3e596463732ed18f))
+* **cua-driver:** persist macOS direct capture verification ([#2904](https://github.com/trycua/cua/issues/2904)) ([605ce1a](https://github.com/trycua/cua/commit/605ce1aec80eb73e23ea4c3622b935147a80a572))
+
 ## [0.23.2](https://github.com/trycua/cua/compare/cua-driver-rs-v0.23.1...cua-driver-rs-v0.23.2) (2026-08-31)
 
 
