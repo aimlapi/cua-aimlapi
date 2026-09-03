@@ -4,6 +4,7 @@
   "pages": [
     "index",
     "---Models & providers---",
+    "aimlapi",
     "anthropic",
     "openai",
     "google",
@@ -12,7 +13,6 @@
     "qwen",
     "kimi",
     "minimax",
-    "aimlapi",
     "---Agent harnesses---",
     "claude-code",
     "codex",
