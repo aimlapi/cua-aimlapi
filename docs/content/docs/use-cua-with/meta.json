@@ -4,6 +4,7 @@
   "pages": [
     "index",
     "---Models & providers---",
+    "aimlapi",
     "anthropic",
     "openai",
     "google",
